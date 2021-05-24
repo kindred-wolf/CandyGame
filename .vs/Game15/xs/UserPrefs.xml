@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{FE712BF5-023B-C21B-A8CA-B1EB64D015E7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Achievement.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Logic_15.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SpawnKit_15.cs" />
+      <File FileName="Assets/Scripts/Achievement.cs" Line="8" Column="28" />
+      <File FileName="Assets/Scripts/Buttons.cs" Line="25" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d633795f-580d-4ccb-8ac0-a4e791e96a15" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
